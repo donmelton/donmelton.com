@@ -1,0 +1,13 @@
+base_url: http://donmelton.com
+cdn_url: http://cdn.donmelton.com
+content_width: 640
+copyright: { starting_year: 2012, owner: Don Melton }
+description: Just another Web geek playing with the Web
+google_analytics_account: UA-34447905-1
+hidden_files: true
+jquery_version: 1.8.3
+kramdown: { entity_output: symbolic }
+remove_obsolete: true
+search_sites: donmelton.com
+title: Don Melton
+visible_posts: 25

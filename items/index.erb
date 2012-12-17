@@ -1,0 +1,24 @@
+---
+destination: /index.html
+template: document
+---
+<%
+posts = sorted_posts
+
+posts.first(@visible_posts).each do |post|
+  post_content = post.precomposed_content
+  unless post_content.index(/<!--\s*more\s*-->/i).nil?
+    post_content = post_content.split(/\n*<!--\s*more\s*-->/i)[0] + "\n" + '<p class="post-more"><a href="' + post_url(post) + '">Continue reading&hellip;</a></p>' + "\n"
+  end
+  render 'post_article', :post => post, :content => post_content do
+%>
+<%= yield %>
+<%
+  end
+end
+
+if posts.count > @visible_posts %>
+<nav id="pagination">
+<p id="index-pager"><a href="/archives/#older" title="Older posts">&larr;&nbsp;Older</a></p>
+</nav>
+<% end %>

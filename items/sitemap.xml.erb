@@ -1,0 +1,41 @@
+<%
+require 'time'
+
+posts = sorted_posts
+
+unless posts.empty?
+  latest_post_time = Time.parse(posts.first.metadata[:published].to_s).xmlschema
+else
+  latest_post_time = Time.now.xmlschema
+end
+%>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc><%= @base_url %>/</loc>
+		<lastmod><%= latest_post_time %></lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<% all_pages.each do |page| %>
+	<url>
+		<loc><%= @base_url + page_url(page) %></loc>
+		<lastmod><%= File.mtime(page.origin_path).xmlschema %></lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<% end; posts.each do |post| %>
+	<url>
+		<loc><%= @base_url + post_url(post) %></loc>
+		<lastmod><%= Time.parse(post.metadata[:published].to_s).xmlschema %></lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<% end %>
+	<url>
+		<loc><%= @base_url %>/archives/</loc>
+		<lastmod><%= latest_post_time %></lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.2</priority>
+	</url>
+</urlset>

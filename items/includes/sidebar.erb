@@ -1,0 +1,35 @@
+<aside id="sidebar">
+<section class="panel">
+<p>Hello, I'm <a href="/about/">Don Melton</a>, probably best known as the guy who started the <a href="http://www.apple.com/safari/">Safari</a> and <a href="http://www.webkit.org/">WebKit</a> projects at Apple. These days I'm just an aspiring writer and a recovering programmer.</p>
+</section>
+<section class="panel">
+<p>Follow me on <a href="https://twitter.com/donmelton">Twitter</a> and <a href="https://alpha.app.net/donmelton">App.net</a>.</p>
+</section>
+<section class="panel">
+<form id="search" action="https://duckduckgo.com/" method="get">
+<input type="hidden" name="sites" value="<%= @config[:search_sites] %>" />
+<label for="search-field">Search for:</label>
+<input type="text" name="q" id="search-field" placeholder="Search" />
+</form>
+</section>
+<%
+posts = sorted_posts.find_all { |item| post_format(item) == 'standard' }
+
+unless posts.empty?
+%>
+<section class="panel">
+<h1>Recent articles</h1>
+<ul>
+<%
+	posts[0..9].each do |item|
+%>
+<li><a href="<%= post_url(item) %>"><%= markdown_inline(item.metadata[:title]) %></a></li>
+<%
+	end
+%>
+</ul>
+</section>
+<%
+end
+%>
+</aside>

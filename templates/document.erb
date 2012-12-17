@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title><%= strip_html(markdown_inline(@title)) %></title>
+<meta name="viewport" content="width=1000" />
+<meta name="generator" content="Magneto" />
+<link rel="stylesheet" href="<%= @config[:cdn_url] %>/css/style.css" />
+<link rel="alternate" href="/rss.xml" type="application/rss+xml" title="RSS feed" />
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<header id="banner">
+<div class="sleeve">
+<hgroup id="nameplate">
+<h1 id="title"><a href="/" title="Home page"><%= markdown_inline(@config[:title]) %></a></h1>
+<h2 id="description"><%= markdown_inline(@config[:description]) %></h2>
+</hgroup>
+<nav id="toc">
+<ul id="menu">
+<li class="menu-item"><a href="/about/" title="About me and this website">About</a></li>
+<li class="menu-item"><a href="/contact/" title="How to contact me">Contact</a></li>
+<li class="menu-item"><a href="/archives/" title="Index of all posts">Archives</a></li>
+<li class="menu-item"><a href="/rss.xml" title="RSS feed">Subscribe</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="main">
+<div class="sleeve">
+<div id="content">
+<%= @content || yield %>
+</div>
+<%= @site.items.find { |item| item.destination == '/includes/sidebar.html' }.content %>
+</div>
+</div>
+<footer id="addendum">
+<div class="sleeve">
+<p id="copyright">Copyright &copy; <%= copyright_year(@copyright['starting_year']) + ' ' + strip_html(markdown_inline(@copyright['owner'])) %></p>
+</div>
+</footer>
+<% if page_url(@item) == '/' %>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/<%= @config[:jquery_version] %>/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="<%= @config[:cdn_url] %>/js/jquery.min.js"><\/script>')</script>
+<script src="<%= @config[:cdn_url] %>/js/timeago.js"></script>
+<script>
+	jQuery(document).ready(function() {
+		$('time.timeago').timeago();
+	});
+</script>
+<% end %>
+<% unless @config[:google_analytics_account].empty? %>
+<script>
+	var _gaq=[['_setAccount','<%= @config[:google_analytics_account] %>'],['_trackPageview']];
+	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+<% end %>
+</body>
+</html>

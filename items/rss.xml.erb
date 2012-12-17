@@ -1,0 +1,35 @@
+<%
+require 'time'
+
+posts = sorted_posts
+%>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title><%= strip_html(markdown_inline(@title)) %></title>
+		<description><%= strip_html(markdown_inline(@description)) %></description>
+		<atom:link href="<%= @base_url %>/rss.xml" rel="self" type="application/rss+xml" />
+		<link><%= @base_url %>/rss.xml</link>
+		<lastBuildDate><% if posts.empty? %><%= Time.now.utc.rfc2822 %><% else %><%= Time.parse(posts.first.metadata[:published].to_s).utc.rfc2822 %><% end %></lastBuildDate>
+		<generator>Magneto</generator>
+		<copyright>Copyright &#169; <%= copyright_year(@copyright['starting_year']) + ' ' + strip_html(markdown_inline(@copyright['owner'])) %></copyright>
+<%
+posts.first(@visible_posts).each do |post|
+  permalink = @base_url + post_url(post)
+  is_link = post_format(post) == 'link'
+%>
+		<item>
+			<title><%= strip_html(markdown_inline(post.metadata[:title])) %><% if is_link %>&#160;&#8594;<% end %></title>
+			<description><![CDATA[
+<%= post.precomposed_content %>
+<% if is_link %>
+<p><a href="<%= permalink %>" title="Permanent link to this post">Permalink</a></p>
+<% end %>
+			]]></description>
+			<link><% if is_link %><%= post.metadata[:link] %><% else %><%= permalink %><% end %></link>
+			<guid><%= permalink %></guid>
+			<pubDate><%= Time.parse(post.metadata[:published].to_s).utc.rfc2822 %></pubDate>
+		</item>
+<% end %>
+	</channel>
+</rss>

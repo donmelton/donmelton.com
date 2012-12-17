@@ -1,0 +1,36 @@
+---
+destination: /archives/index.html
+template: document
+title: Archives
+---
+<%
+require 'time'
+
+posts = sorted_posts
+
+unless posts.empty?
+  age = 0
+  older = @visible_posts + 1
+  last_month = nil
+
+  posts.each do |post|
+    age += 1
+    published = Time.parse(post.metadata[:published].to_s)
+    month = published.strftime('%B %Y').gsub(/ +/, ' ')
+
+    if last_month != month
+      unless last_month.nil?
+%>
+</ul>
+</section>
+<% end %>
+<section class="archive">
+<h1 class="archive-title"><%= month %></h1>
+<% last_month = month %>
+<ul class="archive-list">
+<% end %>
+<li class="archive-item"<% if age == older %> id="older"<% end %>><a href="<%= post_url(post) %>"><%= markdown_inline(post.metadata[:title]) %></a> &middot; <time datetime="<%= published.xmlschema %>"><%= published.strftime('%A, %B %e, %Y').gsub(/ +/, ' ') %></time></li>
+<% end %>
+</ul>
+</section>
+<% end %>

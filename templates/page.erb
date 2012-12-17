@@ -1,0 +1,8 @@
+<% render 'document' do %>
+<article id="page">
+<header id="page-header">
+<h1 id="page-title"><a href="<%= page_url(@item) %>"><%= markdown_inline(@title) %></a></h1>
+</header>
+<%= yield %>
+</article>
+<% end %>

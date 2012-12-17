@@ -1,0 +1,25 @@
+<%
+require 'time'
+
+render 'document' do
+  render 'post_article', :post => @item do
+%>
+<%= yield %>
+<%
+  end
+
+  posts = sorted_posts
+  item_url = post_url(@item)
+  post_index = posts.find_index { |post| post_url(post) == item_url }
+  previous_post = posts[post_index + 1]
+  next_post = post_index > 0 ? posts[post_index - 1] : nil
+
+  unless previous_post.nil? && next_post.nil?
+%>
+<nav id="pagination">
+<p id="post-pager"><% unless previous_post.nil? %><a href="<%= post_url(previous_post) %>" title="Previous post">&larr;&nbsp;<%= strip_html(markdown_inline(previous_post.metadata[:title])) %></a><% end %><% unless previous_post.nil? || next_post.nil? %> &middot; <% end %><% unless next_post.nil? %><a href="<%= post_url(next_post) %>" title="Next post"><%= strip_html(markdown_inline(next_post.metadata[:title])) %>&nbsp;&rarr;</a><% end %></p>
+</nav>
+<%
+  end
+end
+%>

@@ -1,0 +1,269 @@
+$page_width:    920px
+$content_width: 640px
+$gutter_width:  40px
+$sidebar_width: $page_width - $content_width - $gutter_width
+
+$serif:         Georgia, serif
+$sans_serif:    Verdana, sans-serif
+$monospace:     Courier, monospace
+
+$white:         #ffffff
+$black:         #000000
+$dark:          #3d3d3d
+$light:         #f5f5f5
+$accent:        #8b0000
+$gray36:        #5c5c5c
+$gray80:        #cccccc
+$gray90:        #e5e5e5
+
+body
+  background-color: $dark
+  color: $light
+  font-family: $serif
+  font-size: 125%
+  margin: 0
+
+a
+  color: $light
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+
+h1, h2, h3, h4, h5, h6
+  font-weight: normal
+
+h1
+  font-size: 2em
+  margin: .7em 0
+
+h2, h3, h4, h5, h6
+  font-family: $sans_serif
+  font-size: 1.2em
+  margin: 2em 0 1em
+
+ul li
+  list-style-type: square
+
+p, li, dt, dd
+  line-height: 1.5em
+  code, kbd, samp
+    font-size: 90%
+
+li
+  margin: .5em 0
+
+blockquote
+  border-left: 10px solid $gray80
+  margin: 1em 0
+  padding: 0 40px 0 30px
+
+code, kbd, samp, pre
+  background-color: $white
+  border: 1px solid $gray80
+  color: $black
+  font-family: $monospace
+  -webkit-border-radius: 3px
+  -moz-border-radius: 3px
+  border-radius: 3px
+
+code, kbd, samp
+  padding: .25em 4px
+
+pre
+  font-size: .8em
+  overflow: hidden
+  padding: .5em 10px
+  code
+    background-color: transparent
+    border: 0
+    padding: 0
+
+table
+  border-collapse: collapse
+  border-spacing: 0
+  border: 0
+  font-family: $sans_serif
+  font-size: .8em
+  margin: 1em 0
+  th, td
+    border: 1px solid $gray80
+    padding: .25em 20px
+  th
+    background-color: $gray90
+  td
+    background-color: $white
+
+img
+  // Explicitly hide borders to workaround behavior in some versions of
+  // Internet Explorer.
+  border: 0
+  &.align-none
+    height: auto
+    max-width: 100%
+  &.align-full
+    height: auto
+    width: 100%
+  &.align-left
+    float: left
+    margin: 6px 20px 6px 0
+  &.align-right
+    float: right
+    margin: 6px 0 6px 20px
+  &.align-center
+    display: block
+    margin: 0 auto
+
+iframe
+  border: 0
+
+input
+  font-family: $sans_serif
+  font-size: 1em
+
+// Add 1px padding to `#banner` element top in order to prevent Firefox quirk
+// which adds extra space at top of page. Add padding to bottom and other
+// elements for symmetry.
+#banner, #main, #addendum
+  min-width: $page_width
+  padding: 1px $gutter_width 1px
+  text-align: center
+
+#banner, #addendum
+  font-family: $sans_serif
+
+.sleeve
+  margin: 0 auto
+  text-align: left
+  width: $page_width
+
+#banner
+  a
+    border-bottom: 0
+    margin: -3px -6px
+    padding: 3px 6px
+    -webkit-border-radius: 5px
+    -moz-border-radius: 5px
+    border-radius: 5px
+    &:hover
+      background-color: $gray36
+      text-decoration: none
+
+#nameplate, #toc
+  margin: .5em 0
+
+#nameplate
+  float: left
+
+#toc
+  float: right
+
+#title, #description
+  display: inline
+
+#title
+  font-size: 1em
+  font-weight: bold
+  margin: 0 12px 0 0
+
+#description
+  font-family: $serif
+  font-size: .8em
+  font-style: italic
+  margin: 0
+
+#menu
+  margin: 0 -9px
+  padding-left: 0
+
+.menu-item
+  float: left
+  line-height: normal
+  list-style-type: none
+  margin: 0
+  padding: 0 9px
+  position: relative
+  white-space: nowrap
+
+#main
+  background-color: $light
+  color: $dark
+  a
+    color: $accent
+  hr
+    background-color: $gray80
+    border: 0
+    height: 1px
+    margin: 1em 0
+
+#content
+  float: left
+  width: $content_width
+
+.format-link .post-title
+  font-size: 1.2em
+  margin: 1em 0
+
+.format-aside
+  font-family: $sans_serif
+
+.format-quote blockquote
+  font-size: 1.5em
+  & + p
+    font-style: italic
+    margin-top: -1em
+    padding: 0 40px
+    text-align: right
+
+.archive-list
+  padding-left: 0
+
+.archive-item
+  list-style-type: none
+
+#sidebar
+  float: right
+  font-family: $sans_serif
+  margin: 2.5em 0
+  width: $sidebar_width
+
+.panel
+  font-size: .6em
+  margin: 3em 0
+  h1
+    font-size: 1.5em
+  ul
+    padding-left: 0
+  li
+    list-style-type: none
+
+#search
+  label
+    display: none
+  input
+    width: 100%
+
+#page, .post, .archive
+  margin: 4em 0
+
+#pagination, .footnotes, .post-meta, .archive-item time
+  font-family: $sans_serif
+
+#pagination
+  font-size: .8em
+
+.footnotes, .archive-item time
+  font-size: .7em
+
+.post-meta
+  margin: 2em 0
+
+#copyright, .post-meta
+  font-size: .6em
+
+#banner:after, #main:after
+  clear: both
+  content: " "
+  display: block
+  font-size: 0
+  height: 0
+  visibility: hidden
