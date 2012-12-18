@@ -27,7 +27,7 @@ posts.first(@visible_posts).each do |post|
 <% end %>
 			]]></description>
 			<link><% if is_link %><%= post.metadata[:link] %><% else %><%= permalink %><% end %></link>
-			<guid><%= permalink %></guid>
+			<guid isPermaLink="false"><%= permalink %></guid>
 			<pubDate><%= Time.parse(post.metadata[:published].to_s).utc.rfc2822 %></pubDate>
 		</item>
 <% end %>
