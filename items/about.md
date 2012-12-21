@@ -42,6 +42,6 @@ My generator is [Magneto](https://github.com/donmelton/magneto) and it's [Ruby](
 
 Magneto is [available as a gem](https://rubygems.org/gems/magneto) which you can install on your own computer. Before using it, realize that it does have limitations due to its simplicity and that its programming interface may change because it's still under development. You can see how I use it in the source code to this website, [available online](https://github.com/donmelton/donmelton.com).
 
-The output Magneto cooks is just tag soup of various flavors. Yum. And I always taste test it with Safari, Firefox, Opera and Chrome. But if something gives your browser a bellyache, [let me know](/contact/) and I'll see what I can do.
+The output Magneto cooks is just tag soup of various flavors. Yum. And I always taste test it with Safari, Firefox, Opera, Chrome and Internet Explorer. But if something gives your browser a bellyache, [let me know](/contact/) and I'll see what I can do.
 
 Of course, there's no guarantee that I'll keep using my own system to create this website. I love to tinker with things.
