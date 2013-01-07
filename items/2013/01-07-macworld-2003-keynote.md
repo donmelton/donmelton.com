@@ -3,7 +3,7 @@ format: video
 published: 2013-01-07T09:18:03-08:00
 title: MacWorld 2003 keynote
 ---
-<%= youtube '13n98rSaYp4', :aspect => '4x3' %>
+<%= youtube '13n98rSaYp4', :aspect => '16x9' %>
 
 Ten years ago today, which was actually a Tuesday, Steve Jobs introduced Safari to the public at MacWorld in San Francisco. The video above is the full keynote address. It's not an official Apple video which explains the rather poor quality. My apologies, but that's the way I found it online. I didn't make it.
 
