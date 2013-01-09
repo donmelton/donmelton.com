@@ -11,6 +11,6 @@ He goes to detail some of the new evidence against that idea and his own adventu
 
 I've always believed --- not just hoped --- that you can continue learning new things when you're an adult. Not just information and facts, but real skills --- behaviors that are normally envied as talents.
 
-I know this is true because I've been doing it my whole adult life. And I plan on learning new things until I run out of air to breath. I'm not saying it's easy when you're my age. But don't tell me it's impossible.
+I know this is true because I've been doing it my whole adult life. And I plan on learning new things until I run out of air to breathe. I'm not saying it's easy when you're my age. But don't tell me it's impossible.
 
 Via [Andrew Sullivan](http://andrewsullivan.thedailybeast.com/2013/01/teaching-an-old-dog-new-tricks-.html).
