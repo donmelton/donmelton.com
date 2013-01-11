@@ -14,7 +14,7 @@ However, when I hired [Dave Hyatt](https://en.wikipedia.org/wiki/Dave_Hyatt) in 
 
 While at Netscape, Dave built the Chimera (now known as [Camino](https://en.wikipedia.org/wiki/Camino)) browser for Mac OS X and co-created the project that would later become Firefox. Both of these applications were based on the Mozilla [Gecko layout engine](https://en.wikipedia.org/wiki/Gecko_(layout_engine)) on which Dave also worked. He was a true celebrity in the Web browser world, having his hands in just about every Mozilla project.
 
-So, during the Summer of 2002, several bloggers and tech websites speculated that Dave must be bringing Chimera to the Mac. Except that Chimera was already a Mac application and didn't need to ported. So what the hell was Dave doing at Apple? Building another Gecko-based Mac browser? No one knew. And none of this made much sense. Which is probably why the rumors subsided so quickly.
+So, during the Summer of 2002, several bloggers and tech websites speculated that Dave must be bringing Chimera to the Mac. Except that Chimera was already a Mac application and didn't need to be ported. So what the hell was Dave doing at Apple? Building another Gecko-based Mac browser? No one knew. And none of this made much sense. Which is probably why the rumors subsided so quickly.
 
 But people would remember all of this when Safari debuted at Macworld in San Francisco on January 7, 2003. And at least one of them would remember it at full volume while Steve Jobs was on stage making that announcement.
 
