@@ -1,11 +1,11 @@
 ---
 format: video
 published: 2013-01-07T09:18:03-08:00
-title: MacWorld 2003 keynote
+title: Macworld 2003 keynote
 ---
 <%= youtube '13n98rSaYp4', :aspect => '16x9' %>
 
-Ten years ago today, which was actually a Tuesday, Steve Jobs introduced Safari to the public at MacWorld in San Francisco. The video above is the full keynote address. It's not an official Apple video which explains the rather poor quality. My apologies, but that's the way I found it online. I didn't make it.
+Ten years ago today, which was actually a Tuesday, Steve Jobs introduced Safari to the public at Macworld in San Francisco. The video above is the full keynote address. It's not an official Apple video which explains the rather poor quality. My apologies, but that's the way I found it online. I didn't make it.
 
 The good part --- well, the part I really cared about at the time --- begins 54 minutes and 52 seconds into this particular video. That's when Steve says, "So, buckle up."
 

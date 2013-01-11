@@ -26,7 +26,7 @@ IP address `17.149.160.49`? That's Apple. `17.1.2.3`? Yes, Apple. `17.18.19.20`?
 
 I was so screwed.
 
-Even though we operated the project like some CIA black op --- with loyalty oaths and all --- we couldn't let Safari be "Safari" when we used it on the Apple campus network. Otherwise, some Web server administrator somewhere might be scanning their log files and notice the connection between user agent string and IP address origin. Then the big surprise Steve Jobs wanted to unveil at MacWorld on January 7, 2003, would be shot. And, likely, so would I.
+Even though we operated the project like some CIA black op --- with loyalty oaths and all --- we couldn't let Safari be "Safari" when we used it on the Apple campus network. Otherwise, some Web server administrator somewhere might be scanning their log files and notice the connection between user agent string and IP address origin. Then the big surprise Steve Jobs wanted to unveil at Macworld on January 7, 2003, would be shot. And, likely, so would I.
 
 So we hid my cleverly designed Safari user agent string whenever we were at Apple. And I say "my" because that's actually one of the few pieces of code in Safari and WebKit that 1) I can claim to have designed and 2) is still actually in the source. Thank God my engineering team removed or refactored all my other hacks. I hired good people.
 

@@ -16,11 +16,11 @@ While at Netscape, Dave built the Chimera (now known as [Camino](https://en.wiki
 
 So, during the Summer of 2002, several bloggers and tech websites speculated that Dave must be bringing Chimera to the Mac. Except that Chimera was already a Mac application and didn't need to ported. So what the hell was Dave doing at Apple? Building another Gecko-based Mac browser? No one knew. And none of this made much sense. Which is probably why the rumors subsided so quickly.
 
-But people would remember all of this when Safari debuted at MacWorld in San Francisco on January 7, 2003. And at least one of them would remember it at full volume while Steve Jobs was on stage making that announcement.
+But people would remember all of this when Safari debuted at Macworld in San Francisco on January 7, 2003. And at least one of them would remember it at full volume while Steve Jobs was on stage making that announcement.
 
 -----
 
-Until I watched that video I found and [posted of the MacWorld keynote](/2013/01/07/macworld-2003-keynote/), I had completely forgotten what else was announced that day. Which is pretty sad considering I saw Steve rehearse the whole thing at least four times.
+Until I watched that video I found and [posted of the Macworld keynote](/2013/01/07/macworld-2003-keynote/), I had completely forgotten what else was announced that day. Which is pretty sad considering I saw Steve rehearse the whole thing at least four times.
 
 But you have to realize I was totally focused on Safari. And Scott Forstall, my boss, wanted me at those rehearsals in case something went wrong with it.
 
