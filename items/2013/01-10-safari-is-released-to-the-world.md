@@ -32,7 +32,7 @@ Ken and I started at Apple on the same day so, technically, he's the only origin
 
 Most of the time during those rehearsals, Ken and I had nothing to do except sit in the then empty audience and watch The Master Presenter at work --- crafting his keynote. What a privilege to be a spectator during that process. At Apple, we were actually all students, not just spectators. When I see [other companies clumsily announce products](http://www.theverge.com/2013/1/8/3850056/qualcomms-insane-ces-2013-keynote-pictures-tweets) these days, I realize again how much the rest of the world lost now that Steve is gone.
 
-At one rehearsal, Safari hung during Steve's demo --- unable to load any content. Before my pants could load any of its own, Ken discovered the entire network connection had failed. Nothing we could do. The IT folks fixed the problem quickly and setup a redundant system. But I still worried that it might happen again when it really mattered.
+At one rehearsal, Safari hung during Steve's demo --- unable to load any content. Before my pants could load any of its own, Ken discovered the entire network connection had failed. Nothing we could do. The IT folks fixed the problem quickly and set up a redundant system. But I still worried that it might happen again when it really mattered.
 
 -----
 
