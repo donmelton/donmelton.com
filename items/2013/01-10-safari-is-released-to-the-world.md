@@ -18,7 +18,7 @@ So, during the Summer of 2002, several bloggers and tech websites speculated tha
 
 But people would remember all of this when Safari debuted at Macworld in San Francisco on January 7, 2003. And at least one of them would remember it at full volume while Steve Jobs was on stage making that announcement.
 
------
+* * *
 
 Until I watched that video I found and [posted of the Macworld keynote](/2013/01/07/macworld-2003-keynote/), I had completely forgotten what else was announced that day. Which is pretty sad considering I saw Steve rehearse the whole thing at least four times.
 
@@ -34,7 +34,7 @@ Most of the time during those rehearsals, Ken and I had nothing to do except sit
 
 At one rehearsal, Safari hung during Steve's demo --- unable to load any content. Before my pants could load any of its own, Ken discovered the entire network connection had failed. Nothing we could do. The IT folks fixed the problem quickly and set up a redundant system. But I still worried that it might happen again when it really mattered.
 
------
+* * *
 
 On the day of actual keynote, only a few of us from the Safari team were in the audience. Employee passes are always limited at these events for obvious reasons. But we did have great seats, just a few rows from the front --- you didn't want to be too close in case something really went wrong.
 
