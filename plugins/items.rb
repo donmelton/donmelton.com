@@ -1,3 +1,10 @@
+module Magneto
+
+  class Item
+    attr_accessor :url
+  end
+end
+
 POSTS_MATCH_PATTERN = %r{^/\d{4}[-\/]\d{2}[-\/]\d{2}[-\/].+\.md$}
 
 def sorted_posts
@@ -9,7 +16,7 @@ def all_posts
 end
 
 def post_url(item)
-  item.origin.sub(%r{^(/\d{4})[-\/](\d{2})[-\/](\d{2})[-\/](.+)\.md$}, '\1/\2/\3/\4/')
+  item.url ||= item.origin.sub(%r{^(/\d{4})[-\/](\d{2})[-\/](\d{2})[-\/](.+)\.md$}, '\1/\2/\3/\4/')
 end
 
 def post_format(item)
@@ -38,7 +45,7 @@ end
 
 # ... but works for home page `index.erb` item as input.
 def page_url(item)
-  item.origin.sub(%r{(/index)?\.(erb|md)$}, '/')
+  item.url ||= item.origin.sub(%r{(/index)?\.(erb|md)$}, '/')
 end
 
 def is_include?(item)
