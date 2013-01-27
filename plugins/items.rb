@@ -1,11 +1,11 @@
 POSTS_MATCH_PATTERN = %r{^/\d{4}[-\/]\d{2}[-\/]\d{2}[-\/].+\.md$}
 
 def sorted_posts
-  all_posts.sort_by { |item| Time.parse item.metadata[:published].to_s }.reverse
+  @@sorted_posts ||= all_posts.sort_by { |item| Time.parse item.metadata[:published].to_s }.reverse
 end
 
 def all_posts
-  @site.items.find_all { |item| item.origin =~ POSTS_MATCH_PATTERN }
+  @@all_posts ||= @site.items.find_all { |item| item.origin =~ POSTS_MATCH_PATTERN }
 end
 
 def post_url(item)
@@ -33,7 +33,7 @@ end
 
 # Does not include home page `index.erb` item as output...
 def all_pages
-  @site.items.find_all { |item| item.origin =~ %r{^/.+\.md$} && item.origin !~ POSTS_MATCH_PATTERN }
+  @@all_pages ||= @site.items.find_all { |item| item.origin =~ %r{^/.+\.md$} && item.origin !~ POSTS_MATCH_PATTERN }
 end
 
 # ... but works for home page `index.erb` item as input.
