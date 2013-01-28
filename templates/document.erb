@@ -15,8 +15,10 @@
 <header id="banner">
 <div class="sleeve">
 <hgroup id="nameplate">
-<h1 id="title"><a href="/" title="Home page"><%= markdown_inline(@config[:title]) %></a></h1>
-<h2 id="description"><%= markdown_inline(@config[:description]) %></h2>
+<% @@title ||= markdown_inline(@config[:title]) %>
+<h1 id="title"><a href="/" title="Home page"><%= @@title %></a></h1>
+<% @@description ||= markdown_inline(@config[:description]) %>
+<h2 id="description"><%= @@description %></h2>
 </hgroup>
 <nav id="toc">
 <ul id="menu">
@@ -39,7 +41,8 @@
 </div>
 <footer id="addendum">
 <div class="sleeve">
-<p id="copyright">Copyright &copy; <%= copyright_year(@copyright['starting_year']) + ' ' + strip_html(markdown_inline(@copyright['owner'])) %></p>
+<% @@copyright ||= copyright_year(@copyright['starting_year']) + ' ' + strip_html(markdown_inline(@copyright['owner'])) %>
+<p id="copyright">Copyright &copy; <%= @@copyright %></p>
 </div>
 </footer>
 <% if page_url(@item) == '/' %>
