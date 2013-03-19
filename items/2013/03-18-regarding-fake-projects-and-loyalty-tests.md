@@ -10,7 +10,7 @@ Once you get past the overly dramatic headline, it's a well-written, thoughtful 
 
 The conclusion to the article is, of course, "no," Apple doesn't do that.
 
-And I can also confrim that's the case. As a manager and then director at Apple for over 10 years, I never once assigned anyone to a fake project. And loyalty tests? I never heard of either practice there.
+And I can also confirm that's the case. As a manager and then director at Apple for over 10 years, I never once assigned anyone to a fake project. And loyalty tests? I never heard of either practice there.
 
 So, how do silly ideas like this stay alive? It's because many don't understand --- even at a basic level -- how Apple works.
 
@@ -28,7 +28,7 @@ This isn't some insider scoop I gave away with that post. It's been obvious to p
 
 Clearly, duplication of effort is not big in Cupertino. Even with two operating systems --- iOS and OS X --- the idea is to share technologies that make sense and keep those technologies from diverging too much. Otherwise it becomes really complicated to coordinate releases. It's not perfect, but anyone who's attended an Apple developer conference knows the company takes reducing even that kind of duplication seriously.
 
-Which makes the idea of fake projects so ludicrous. That's not even duplicated effort. That's completely superfulous work. When you have a focus on efficiency like Apple, why would you waste time and resources doing that?
+Which makes the idea of fake projects so ludicrous. That's not even duplicated effort. That's completely superfluous work. When you have a focus on efficiency like Apple, why would you waste time and resources doing that?
 
 Apple is also known for having very high standards when it comes to hiring. And it's clear that those candidates who make it through the interview process, are offered a job, and finally accept employment --- well, those folks really want to be at Apple.
 
