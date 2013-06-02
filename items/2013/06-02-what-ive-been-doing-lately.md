@@ -34,7 +34,7 @@ Every Guinness I've drank in America tastes like piss compared to the brew --- l
 
 But it was the people in Dublin that impressed me the most. Not only did my wife and I make wonderful new friends at Úll, but everyone else we met in Ireland were just so... nice. Even the cab drivers.
 
-So Úll and Dublin were great. And then we got back from that 15-hour flight to find that Penny's ashes had just been delivered to our home. It was like a punch in the gut. All the those feelings were back.
+So Úll and Dublin were great. And then we got back from that 15-hour flight to find that Penny's ashes had just been delivered to our home. It was like a punch in the gut. All those feelings were back.
 
 Now, it's not wrong to mourn and miss someone --- and she was a some-_one_, not a some-_thing_. If you don't, did they really matter? But you can't dwell on just the loss.
 
