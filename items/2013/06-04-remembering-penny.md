@@ -26,7 +26,7 @@ Penny had a rich, double-thick coat of fur with a subtle but stylish wave runnin
 
 She was dedicated to sleeping. Even as a puppy, Penny seemed to spend over half the day at it. And she had a snore that would shame an apnea-suffering fat man. Her dreams could be loud too. While not exactly violent, she sometimes moved and shook, twitching her legs, tail and nose. For a long time she slept on the bed at our feet. I always liked her close by, even if she was noisy and in the way. It just seemed right to have her there.
 
-In her later years, when she could no longer leap up safely on the bed, Penny would curl up in the closet. Tucked away like a shadow in the shade. That little room became like a burrow for her, and she sought it out for comfort. And as I moved around during the night, I took comfort too in the gentle buzzing and creaking emanating from the darkness between the clothes and the hangars.
+In her later years, when she could no longer leap up safely on the bed, Penny would curl up in the closet. Tucked away like a shadow in the shade. That little room became like a burrow for her, and she sought it out for comfort. And as I moved around during the night, I took comfort too in the gentle buzzing and creaking emanating from the darkness between the clothes and the hangers.
 
 Now, when I get up in the middle of the night, I still pause to check on her in that closet. To make sure she's okay. To make sure she's safe. I thought I heard her collar tags jingle. Didn't I hear it? And every time I'm sad all over again.
 
