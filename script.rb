@@ -67,10 +67,10 @@ end
 @site.items.find_all { |item| File.extname(item.origin) == '.coffee' }.each do |item|
   item.destination.sub! /coffee$/, 'js'
   item.apply_filter :coffeescript
+  item.content.lstrip!
   item.content.gsub!(/(?:^|\G) {2}/m, "\t")
 end
 
 @site.items.find_all { |item| is_include?(item) }.each do |item|
   item.abandon
 end
-
