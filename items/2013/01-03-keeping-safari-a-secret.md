@@ -10,7 +10,7 @@ Not only was I tasked by Scott Forstall with building a browser and building a t
 
 So, secrecy. We weren't under physical lockdown like Jony Ive's design group was then, or like the iPhone team would be years later. But unless you knew who to look for, you were never going to find us on campus. And if you did, it's unlikely you could tell what we were doing unless you caught one of us actually running Safari --- something we usually did with our office doors closed.
 
-I wasn't worried about talk either. Forstall certainly trusted me -- that's one of the many things that made him a great boss. And I trusted my team --- otherwise I wouldn't have hired them. None of us nor any of the internal beta testers at Apple were going to snitch. There were too damn few beta testers, but they were above reproach.
+I wasn't worried about talk either. Forstall certainly trusted me --- that's one of the many things that made him a great boss. And I trusted my team --- otherwise I wouldn't have hired them. None of us nor any of the internal beta testers at Apple were going to snitch. There were too damn few beta testers, but they were above reproach.
 
 Twitter and Facebook didn't exist then. Nobody at Apple was stupid enough to blog about work, so what was I worried about?
 

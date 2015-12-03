@@ -12,7 +12,7 @@ The conclusion to the article is, of course, "no," Apple doesn't do that.
 
 And I can also confirm that's the case. As a manager and then director at Apple for over 10 years, I never once assigned anyone to a fake project. And loyalty tests? I never heard of either practice there.
 
-So, how do silly ideas like this stay alive? It's because many don't understand --- even at a basic level -- how Apple works.
+So, how do silly ideas like this stay alive? It's because many don't understand --- even at a basic level --- how Apple works.
 
 A qualification for that understanding doesn't require employment at Cupertino. I doubt very seriously if [John Gruber](http://daringfireball.net/), [Jim Dalrymple](http://www.loopinsight.com/) or [Horace Dediu](http://www.asymco.com/) --- none of whom have ever worked for Apple --- fell for that original story.
 
@@ -32,7 +32,7 @@ Which makes the idea of fake projects so ludicrous. That's not even duplicated e
 
 Apple is also known for having very high standards when it comes to hiring. And it's clear that those candidates who make it through the interview process, are offered a job, and finally accept employment --- well, those folks really want to be at Apple.
 
-It's also common knowledge that Apple keeps what they're working on a secret until it's unveiled to the public. There are very explicit rules for employees --- told to them on their first day of their employment or later disclosure on a specific project--- about what they can say regarding that project and to whom they can say it. And it's very clear to everyone what happens if those rules are broken. Such a policy is probably not that much different from what other technology companies have these days. This is old news.
+It's also common knowledge that Apple keeps what they're working on a secret until it's unveiled to the public. There are very explicit rules for employees --- told to them on their first day of their employment or later disclosure on a specific project --- about what they can say regarding that project and to whom they can say it. And it's very clear to everyone what happens if those rules are broken. Such a policy is probably not that much different from what other technology companies have these days. This is old news.
 
 Now, if Apple is going to screen candidates so thoroughly and then explain the rules to them so carefully after they're hired, what is the point of an additional loyalty test?
 
