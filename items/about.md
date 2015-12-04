@@ -2,7 +2,7 @@
 title: About me and this website
 ---
 
-Hello, I'm Don Melton, probably best known as the person who started the [Safari](https://www.apple.com/safari/) and [WebKit](https://www.webkit.org/) projects at Apple. These days I'm just an aspiring writer and recovering programmer.
+Hello, I'm Don Melton, probably best known as the person who started the [Safari](https://www.apple.com/safari/) and [WebKit](https://webkit.org/) projects at Apple. These days I'm just an aspiring writer and recovering programmer.
 
 I live in the Republic of California with my wife, son and various creatures --- some of which are also family. I prefer dogs over cats since I'm allergic to the latter. The rest are mostly varmints.
 
