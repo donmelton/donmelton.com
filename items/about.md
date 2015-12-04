@@ -30,13 +30,13 @@ Then, after over 10 years at Apple, and safely months before the [Mayan apocalyp
 
 ## How I'm playing with the Web here
 
-Although I've used publishing systems such as [WordPress](https://wordpress.org/), [Movable Type](http://www.movabletype.com/) and [Textpattern](http://textpattern.com/) elsewhere, I'm not deploying any of them here. And that's after prototyping this whole site in WordPress --- an effort which included writing my own theme and numerous plugins. Instead, I went full-on hipster and used a static website generator.
+Although I've used publishing systems such as [WordPress](https://wordpress.org/), [Movable Type](https://movabletype.com/) and [Textpattern](http://textpattern.com/) elsewhere, I'm not deploying any of them here. And that's after prototyping this whole site in WordPress --- an effort which included writing my own theme and numerous plugins. Instead, I went full-on hipster and used a static website generator.
 
 With a static publishing system there's no server-side database containing posts and pages. It works by generating Web content from simple text files. Although you lose Web-based authoring and dynamic behavior, you gain loading speed, security and ease of maintenance.
 
-I considered [nanoc](http://nanoc.stoneship.org/) and [Jekyll](http://jekyllrb.com/) for the generator. I admire both and, once again, prototyped the whole site with each of them. Did I mention I'm retired and have a lot of time on my hands? But, in the end, I wrote my own system. Why? Because I can. And I wanted an even simpler tool.
+I considered [Nanoc](http://nanoc.ws/) and [Jekyll](http://jekyllrb.com/) for the generator. I admire both and, once again, prototyped the whole site with each of them. Did I mention I'm retired and have a lot of time on my hands? But, in the end, I wrote my own system. Why? Because I can. And I wanted an even simpler tool.
 
-My generator is [Magneto](https://github.com/donmelton/magneto) and it's [Ruby](http://www.ruby-lang.org/)-based, just like nanoc and Jekyll. It uses many of the same core technologies. But it's simpler because much of the typical policy and behavior built into those tools are moved into a controller script and set of plugins specific to my website. Which means I only re-invented a small part of the wheel.
+My generator is [Magneto](https://github.com/donmelton/magneto) and it's [Ruby](http://www.ruby-lang.org/)-based, just like Nanoc and Jekyll. It uses many of the same core technologies. But it's simpler because much of the typical policy and behavior built into those tools are moved into a controller script and set of plugins specific to my website. Which means I only re-invented a small part of the wheel.
 
 Magneto is [available as a gem](https://rubygems.org/gems/magneto) which you can install on your own computer. Before using it, realize that it does have limitations due to its simplicity and that its programming interface may change because it's still under development. You can see how I use it in the source code to this website, [available online](https://github.com/donmelton/donmelton.com).
 
