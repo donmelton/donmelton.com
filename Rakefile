@@ -40,7 +40,7 @@ title: #{title}
 EOF
   end
 
-  sh "open #{draft}"
+  sh "bbedit #{draft}"
 end
 
 task :post do
