@@ -50,7 +50,7 @@ Then it was back to slides and Steve talking about how we built it. "We based Sa
 
 But I chose the engine we used --- with my team's and my management chain's support, of course --- a year before Dave joined the project. Dave thought it was a great decision too, once he arrived. But that engine wasn't Gecko, the code inside Chimera.
 
-It was [KHTML](https://en.wikipedia.org/wiki/KHTML). Specifically KHTML and [KJS](https://en.wikipedia.org/wiki/KJS_(KDE)) --- the code inside KDE's [Konqueror](https://en.wikipedia.org/wiki/Konqueror) Web browser on Linux. After the keynote was over, I sent [this email](http://lists.kde.org/?m=104197092318639) to the KDE team to thank them and introduce ourselves. I did it right from where I was sitting too, once they turned the WiFi back on.
+It was [KHTML](https://en.wikipedia.org/wiki/KHTML). Specifically KHTML and [KJS](https://en.wikipedia.org/wiki/KJS_(KDE)) --- the code inside KDE's [Konqueror](https://en.wikipedia.org/wiki/Konqueror) Web browser on Linux. After the keynote was over, I sent [this email](https://marc.info/?m=104197092318639) to the KDE team to thank them and introduce ourselves. I did it right from where I was sitting too, once they turned the WiFi back on.
 
 You can argue whether KHTML was the right decision --- go ahead, after 10 years it doesn't faze me anymore. I'll detail my reasons in a later post. Spoiler alert: I don't hate Gecko.
 
