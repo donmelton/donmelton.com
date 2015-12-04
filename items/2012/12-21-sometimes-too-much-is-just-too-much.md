@@ -5,7 +5,7 @@ title: Sometimes too much is just too much
 ---
 [Jim Dalrymple](http://www.loopinsight.com/author/jim-dalrymple/) on his love/hate relationship with WordPress:
 
-> I run [The Loop](http://www.loopinsight.com/) on [WordPress](http://wordpress.org/). It's a great platform with a ton of features. But that's part of the problem --- there's so much that I don't need and never use that it just feels like a waste.
+> I run [The Loop](http://www.loopinsight.com/) on [WordPress](https://wordpress.org/). It's a great platform with a ton of features. But that's part of the problem --- there's so much that I don't need and never use that it just feels like a waste.
 
 And:
 

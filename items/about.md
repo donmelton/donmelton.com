@@ -30,7 +30,7 @@ Then, after over 10 years at Apple, and safely months before the [Mayan apocalyp
 
 ## How I'm playing with the Web here
 
-Although I've used publishing systems such as [WordPress](http://wordpress.org/), [Movable Type](http://www.movabletype.com/) and [Textpattern](http://textpattern.com/) elsewhere, I'm not deploying any of them here. And that's after prototyping this whole site in WordPress --- an effort which included writing my own theme and numerous plugins. Instead, I went full-on hipster and used a static website generator.
+Although I've used publishing systems such as [WordPress](https://wordpress.org/), [Movable Type](http://www.movabletype.com/) and [Textpattern](http://textpattern.com/) elsewhere, I'm not deploying any of them here. And that's after prototyping this whole site in WordPress --- an effort which included writing my own theme and numerous plugins. Instead, I went full-on hipster and used a static website generator.
 
 With a static publishing system there's no server-side database containing posts and pages. It works by generating Web content from simple text files. Although you lose Web-based authoring and dynamic behavior, you gain loading speed, security and ease of maintenance.
 
