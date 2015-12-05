@@ -1,9 +1,9 @@
 ---
-link: http://www.businessweek.com/articles/2013-01-03/job-applicants-cultural-fit-can-trump-qualifications
+link: http://www.bloomberg.com/bw/articles/2013-01-03/job-applicants-cultural-fit-can-trump-qualifications
 published: 2013-01-05T21:30:14-08:00
 title: Job applicants' cultural fit can trump qualifications
 ---
-I saw [this](http://www.businessweek.com/articles/2013-01-03/job-applicants-cultural-fit-can-trump-qualifications) earlier today on [The Loop](http://www.loopinsight.com/2013/01/05/job-interviews-are-the-new-first-date/) and had a brief exchange about it with [Jim Dalrymple](http://www.loopinsight.com/author/jim-dalrymple/) on App.net. I'll indulge myself expanding on that here.
+I saw [this](http://www.bloomberg.com/bw/articles/2013-01-03/job-applicants-cultural-fit-can-trump-qualifications) earlier today on [The Loop](http://www.loopinsight.com/2013/01/05/job-interviews-are-the-new-first-date/) and had a brief exchange about it with [Jim Dalrymple](http://www.loopinsight.com/author/jim-dalrymple/) on App.net. I'll indulge myself expanding on that here.
 
 I'm no lawyer, but screening for cultural fit is a legal slippery slope. If you're a hiring manager, be very, very careful about which questions you pose to a candidate. For example, you shouldn't ask someone if they're married. Or if they have kids. If that candidate doesn't get the job, someone might claim they were a victim of discrimination. You should already know this.
 
