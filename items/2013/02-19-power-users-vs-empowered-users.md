@@ -3,7 +3,7 @@ link: http://www.imore.com/power-users-vs-empowered-users
 published: 2013-02-19T20:52:06-08:00
 title: Power users vs. empowered users
 ---
-[Rene Ritchie](http://about.me/reneritchie) on the tension between the traditional desktop and the new world of touch:
+[Rene Ritchie](https://twitter.com/reneritchie) on the tension between the traditional desktop and the new world of touch:
 
 > When the iPad was announced, a friend and former colleague of mine lamented it as the death-knell of powerful, open computing. I welcomed it as the death-knell of me providing tech support for every relative and neighbor who walked into a Best Buy and walked out with a beige box of mystery and pain. Turns out, we were both right.
 
