@@ -200,7 +200,7 @@ And then clicked to reveal his special slide --- poster art I'm sure everyone ha
 
 "How about a nice cup of shut the fuck up."
 
-And then the best part --- the part we didn't know was coming --- Steve paused, turned to his V.P. of Marketing and deadpanned, "What do you think, Phil? Too much?"
+And then the best part --- the part we didn't know was coming --- Steve paused, turned to his VP of Marketing and deadpanned, "What do you think, Phil? Too much?"
 
 Ken and I struggled to keep from collapsing in another giggling fit and falling on the floor.
 
