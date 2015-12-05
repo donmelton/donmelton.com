@@ -4,7 +4,7 @@ title: Safari is released to the world
 ---
 During the early development of Safari, I didn't just worry about [leaking our secret project](/2013/01/03/keeping-safari-a-secret/) through Apple's IP address or our browser's user agent string. It also concerned me that curious gawkers on the outside would notice who I was hiring at Apple.
 
-Other than a bit part in a [documentary about Netscape](http://www.clickmovement.org/coderush) that aired on PBS, I wasn't known to anyone but a few dozen other geeks in The Valley. Of course, several of those folks were aware I was now at Apple and working on some project I wouldn't say anything about. And it doesn't take many people in this town to snowball a bit of idle speculation.
+Other than a bit part in a [documentary about Netscape](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) that aired on PBS, I wasn't known to anyone but a few dozen other geeks in The Valley. Of course, several of those folks were aware I was now at Apple and working on some project I wouldn't say anything about. And it doesn't take many people in this town to snowball a bit of idle speculation.
 
 I found out later that [Andy Hertzfeld](https://en.wikipedia.org/wiki/Andy_Hertzfeld), an Apple veteran who I worked with at [Eazel](https://en.wikipedia.org/wiki/Eazel), had figured it all out by the time I showed up for my first day to work on the browser on June 25, 2001. Andy was very insightful that way. But thankfully he was also quiet about it at the time.
 
@@ -12,7 +12,7 @@ Hiring [Darin Adler](https://en.wikipedia.org/wiki/Darin_Adler), also ex-Apple a
 
 However, when I hired [Dave Hyatt](https://en.wikipedia.org/wiki/Dave_Hyatt) in July 2002, then guesses started flying fast.
 
-While at Netscape, Dave built the Chimera (now known as [Camino](https://en.wikipedia.org/wiki/Camino)) browser for Mac OS X and co-created the project that would later become Firefox. Both of these applications were based on the Mozilla [Gecko layout engine](https://en.wikipedia.org/wiki/Gecko_(layout_engine)) on which Dave also worked. He was a true celebrity in the Web browser world, having his hands in just about every Mozilla project.
+While at Netscape, Dave built the Chimera (now known as [Camino](https://en.wikipedia.org/wiki/Camino_(web_browser))) browser for Mac OS X and co-created the project that would later become Firefox. Both of these applications were based on the Mozilla [Gecko layout engine](https://en.wikipedia.org/wiki/Gecko_(software)) on which Dave also worked. He was a true celebrity in the Web browser world, having his hands in just about every Mozilla project.
 
 So, during the Summer of 2002, several bloggers and tech websites speculated that Dave must be bringing Chimera to the Mac. Except that Chimera was already a Mac application and didn't need to be ported. So what the hell was Dave doing at Apple? Building another Gecko-based Mac browser? No one knew. And none of this made much sense. Which is probably why the rumors subsided so quickly.
 
@@ -50,7 +50,7 @@ Then it was back to slides and Steve talking about how we built it. "We based Sa
 
 But I chose the engine we used --- with my team's and my management chain's support, of course --- a year before Dave joined the project. Dave thought it was a great decision too, once he arrived. But that engine wasn't Gecko, the code inside Chimera.
 
-It was [KHTML](https://en.wikipedia.org/wiki/KHTML). Specifically KHTML and [KJS](https://en.wikipedia.org/wiki/KJS_(KDE)) --- the code inside KDE's [Konqueror](https://en.wikipedia.org/wiki/Konqueror) Web browser on Linux. After the keynote was over, I sent [this email](https://marc.info/?m=104197092318639) to the KDE team to thank them and introduce ourselves. I did it right from where I was sitting too, once they turned the WiFi back on.
+It was [KHTML](https://en.wikipedia.org/wiki/KHTML). Specifically KHTML and [KJS](https://en.wikipedia.org/wiki/KJS_(software)) --- the code inside KDE's [Konqueror](https://en.wikipedia.org/wiki/Konqueror) Web browser on Linux. After the keynote was over, I sent [this email](https://marc.info/?m=104197092318639) to the KDE team to thank them and introduce ourselves. I did it right from where I was sitting too, once they turned the WiFi back on.
 
 You can argue whether KHTML was the right decision --- go ahead, after 10 years it doesn't faze me anymore. I'll detail my reasons in a later post. Spoiler alert: I don't hate Gecko.
 
