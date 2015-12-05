@@ -56,7 +56,7 @@ So all three of us knew him well.
 
 Bud finally sat down with someone else who's back was turned away from us, six or seven tables away. Ken said something like, "Hey, that's Bud over there! Did you guys see him? What's he doing here?"
 
-Ken and I hadn't seen Bud in months, not since Eazel shut down, so were all making guesses about the reason for his visit. Tiring of the conjecture, I finally just stood up, cupped my hands and called out to him.
+Ken and I hadn't seen Bud in months, not since Eazel shut down, so we were all making guesses about the reason for his visit. Tiring of the conjecture, I finally just stood up, cupped my hands and called out to him.
 
 "Hey, Bud! Come over and see your old pals when you're done to talking to _that_ guy." Bud looked up --- slight pause --- and "that guy" turned around to stare at me.
 
