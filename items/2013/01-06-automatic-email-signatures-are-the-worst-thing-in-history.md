@@ -15,4 +15,4 @@ If your email signature is longer than your actual name, think very hard about w
 
 If your signature is longer than your actual email content, then you've failed at the Internet and you must leave. Now.
 
-Via [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/index.php?db=comics&id=2847).
+Via [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/index.php?id=2847).
