@@ -11,4 +11,4 @@ After viewing this, I feel compelled to paraphrase the tagline from "Superman," 
 
 I can't recall a longer look at non-fictional humans moving through a microgravity environment. Can you? Even with my Internet-depleted attention span, I couldn't look away from this 25-minute video --- watched the whole thing in one sitting. I bet you will too.
 
-Via [Andrew Sullivan](http://andrewsullivan.thedailybeast.com/2013/01/i-havent-sat-down-in-six-months-now.html).
+Via [Andrew Sullivan](http://dish.andrewsullivan.com/2013/01/16/i-havent-sat-down-in-six-months-now/).
