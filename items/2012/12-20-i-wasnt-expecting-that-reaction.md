@@ -6,9 +6,9 @@ As I mentioned elsewhere, I almost did a Danny Thomas-style coffee spew this mor
 
 It wasn't my intent to make that kind of splash. Honest. I wrote that story to entertain myself and my friends on Twitter, App.net and Facebook who might foolishly have been paying attention to this still little blog. I would have been pleased to see a dozen comments here and there.
 
-Waking up to see your name on the front page of [Hacker News](https://news.ycombinator.com/item?id=4946629) and [Techmeme](http://www.techmeme.com/121220/p22#a121220p22) shouldn't happen to people who haven't been to the bathroom yet. Thankfully, I had done my business by the time I found out about the thread on [Reddit](http://www.reddit.com/r/apple/comments/155qcg/when_i_first_heard_the_name_safari/).
+Waking up to see your name on the front page of [Hacker News](https://news.ycombinator.com/item?id=4946629) and [Techmeme](http://www.techmeme.com/121220/p22#a121220p22) shouldn't happen to people who haven't been to the bathroom yet. Thankfully, I had done my business by the time I found out about the thread on [Reddit](https://www.reddit.com/r/apple/comments/155qcg/when_i_first_heard_the_name_safari/).
 
-This website is maintaining over 300 active users for now. It peaked much, much higher than that earlier. I had no idea I would get that kind of traffic. Thank God I used [Magneto](https://github.com/donmelton/magneto) to generate a static site. And [DreamHost](http://dreamhost.com/), my service provider, has performed admirably with a dinky shared hosting plan.
+This website is maintaining over 300 active users for now. It peaked much, much higher than that earlier. I had no idea I would get that kind of traffic. Thank God I used [Magneto](https://github.com/donmelton/magneto) to generate a static site. And [DreamHost](https://www.dreamhost.com/), my service provider, has performed admirably with a dinky shared hosting plan.
 
 I would like to thank my sister, [Joyce](http://joycemelton.com/), for editing that post last night. She's also edited much of the other content here. While I'm still a pretend writer, she's a professional. And a damn good one. Not only does she have the courage to keep me honest, she has the authority to slap the shit out of me with my own adverbs.
 
