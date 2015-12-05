@@ -3,7 +3,7 @@ link: http://wilwheaton.net/2012/12/regarding-instagrams-new-tos/
 published: 2012-12-17T21:45:49-08:00
 title: Regarding Instagram's new TOS
 ---
-Wil Wheaton on [Instagram's new privacy policy and terms of service](http://instagram.com/about/legal/terms/updated/) which allow using your photos in advertisements:
+Wil Wheaton on [Instagram's new privacy policy and terms of service](https://www.instagram.com/about/legal/terms/) which allow using your photos in advertisements:
 
 > If someone Instagrams a photo of Seth Green walking through an Urban Outfitters, does that mean Urban Outfitters can take that image and use it to create an implied endorsement by Seth?
 

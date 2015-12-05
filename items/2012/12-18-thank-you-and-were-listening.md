@@ -3,7 +3,7 @@ link: http://blog.instagram.com/post/38252135408/thank-you-and-were-listening
 published: 2012-12-18T15:16:01-08:00
 title: Thank you, and we're listening
 ---
-Kevin Systrom, co-founder of Instagram, on the shitstorm they created with their [new privacy policy and terms of service](http://instagram.com/about/legal/terms/updated/) released yesterday: 
+Kevin Systrom, co-founder of Instagram, on the shitstorm they created with their [new privacy policy and terms of service](https://www.instagram.com/about/legal/terms/) released yesterday: 
 
 > One of the main reasons these documents don’t take effect immediately, but instead 30 days from now, is that we wanted to make sure you had an opportunity to raise any concerns. You’ve done that and are doing that, and that will help us provide the clarity you deserve.
 
