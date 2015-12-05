@@ -9,4 +9,4 @@ Differentiating himself from a common hypochondriac, Woody Allen writes:
 
 You can't help but hear his voice in your head as your read the essay. It's old schtick but it's classic schtick. Good to see him writing something besides screenplays these days. More, please.
 
-Via [Mark Evanier](http://www.newsfromme.com/2013/01/13/recommeded-reading/).
+Via [Mark Evanier](http://www.newsfromme.com/2013/01/13/recommended-reading-1608/).
