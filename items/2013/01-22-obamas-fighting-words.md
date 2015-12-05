@@ -11,6 +11,6 @@ Conservative writer David Frum on President Barack Obama's second inaugural addr
 > 
 > Those are not words intended to invite Republican cooperation, but to slam Republican non-cooperation; not to conciliate, but to confront. They were fighting words, and they portend a second term in which the president is fully as willing to take the fight to his opponents as they have been to take the fight to him.
 
-Frum is at least more reasoned in his reaction compared to the [faux indignation of other Republicans](http://www.politico.com/story/2013/01/republicans-fighting-words-from-obama-in-inaugural-speech-86514.html). Like schoolyard bullies, they just can't believe the skinny kid wants his lunch money back now.
+Frum is at least more reasoned in his reaction compared to the [faux indignation of other Republicans](http://www.politico.com/story/2013/01/republicans-fighting-words-from-obama-in-inaugural-speech-086514). Like schoolyard bullies, they just can't believe the skinny kid wants his lunch money back now.
 
 I don't think President Obama is picking a fight. But it's clear he's not going to back away from one anymore.
