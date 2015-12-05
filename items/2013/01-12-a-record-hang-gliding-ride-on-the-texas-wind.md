@@ -1,5 +1,5 @@
 ---
-link: http://www.nytimes.com/interactive/2013/01/11/us/a-record-ride-on-the-texas-wind.html
+link: http://www.nytimes.com/interactive/2013/01/11/sports/a-record-ride-on-the-texas-wind.html
 published: 2013-01-12T21:32:18-08:00
 title: A record hang gliding ride on the Texas wind
 ---
