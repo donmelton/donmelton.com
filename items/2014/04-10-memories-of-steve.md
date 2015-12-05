@@ -46,7 +46,7 @@ After I started at Apple in June of 2001, I saw Steve at a few on-campus events,
 
 I'm not sure whether this incident happened just before or after Apple announced the original iPod, but it was a fine Autumn day in Cupertino and I was eating lunch with Ken Kocienda and Richard Williamson, the first two engineers on my Safari team.
 
-We were sitting at a table just outside one of the double doors to Caffè Macs. I can't remember exactly what we were talking about. If we ever discussed "the project" --- as we would sometimes refer to it when not in our offices --- it was always in quiet tones and extremely obtuse language since [Safari was still double secret](http://donmelton.com/2013/01/03/keeping-safari-a-secret/) and known to only a handful.
+We were sitting at a table just outside one of the double doors to Caffè Macs. I can't remember exactly what we were talking about. If we ever discussed "the project" --- as we would sometimes refer to it when not in our offices --- it was always in quiet tones and extremely obtuse language since [Safari was still double secret](/2013/01/03/keeping-safari-a-secret/) and known to only a handful.
 
 Anyway, while we were all munching on sandwiches and salads, Ken noticed a familiar face looking for an open table near the other end of the long patio curving around the front of the cafeteria. It was Bud Tribble.
 
@@ -76,7 +76,7 @@ Spoiler alert: I did not get fired.
 
 And about nine or ten months into the Safari project, Scott Forstall figured we should start preparing to review its features, user interface and various behaviors with Steve. This would have been during the late Spring of 2002.
 
-By that time Safari was a for-real application which could actually browse the Web. But it wasn't called Safari yet. [That christening wouldn't happen until December](http://donmelton.com/2012/12/19/when-i-first-heard-the-name-safari/), later that year.
+By that time Safari was a for-real application which could actually browse the Web. But it wasn't called Safari yet. [That christening wouldn't happen until December](/2012/12/19/when-i-first-heard-the-name-safari/), later that year.
 
 Scott briefed me on what to expect and essentially how to behave during my first meeting with Steve and the subsequent reviews. And it was clear I would _not_ be at a second meeting with Steve if I fucked up during the first one.
 
@@ -174,7 +174,7 @@ Yes, Steve could be intense at times. But he was also a real person. He had to d
 
 * * *
 
-I've written before about being at 2003 Macworld keynote rehearsals, [the event where Safari was unveiled](http://donmelton.com/2013/01/10/safari-is-released-to-the-world/). Also where Steve gave the first update on our new Apple Stores, at the time open less than a year.
+I've written before about being at 2003 Macworld keynote rehearsals, [the event where Safari was unveiled](/2013/01/10/safari-is-released-to-the-world/). Also where Steve gave the first update on our new Apple Stores, at the time open less than a year.
 
 Many technology and business pundits had already written off our retail effort claiming it would be a huge failure --- yet another dumb-ass prediction about Apple. In fact, the stores had succeeded better than we expected. And Steve wanted to make damn sure everyone knew that. Especially the pundits.
 
