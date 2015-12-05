@@ -12,8 +12,7 @@ Almost as soon as I introduced myself, Craig said "I'm told they call you Gramps
 
 Pure Federighi earnestness and concern. Seriously.
 
-So I explained that I was christened as such when I was only in my mid-thirties at Netscape,
-"Years ago when I got that name, I was actually young enough for it to be ironic. These days it's a Human Resources policy violation."
+So I explained that I was christened as such when I was only in my mid-thirties at Netscape, "Years ago when I got that name, I was actually young enough for it to be ironic. These days it's a Human Resources policy violation."
 
 And Craig started laughing out loud. Drawing the attention of everyone else in the room. And, of course, a big smile on my face.
 
