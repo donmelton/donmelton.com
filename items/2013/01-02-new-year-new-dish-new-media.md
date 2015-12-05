@@ -1,9 +1,9 @@
 ---
-link: http://andrewsullivan.thedailybeast.com/2013/01/a-declaration-of-independence.html
+link: http://dish.andrewsullivan.com/2013/01/27/a-declaration-of-independence/
 published: 2013-01-02T12:32:29-08:00
 title: New year, new dish, new media
 ---
-Andrew Sullivan on taking [his website](http://www.andrewsullivan.com) rogue supported by subscription only, without advertising:
+Andrew Sullivan on taking [his website](http://dish.andrewsullivan.com) rogue supported by subscription only, without advertising:
 
 > No bigger media companies will be subsidizing us; no venture capital will be sought to cushion our transition (unless my savings count as venture capital); and, most critically, no advertising will be getting in the way.
 
