@@ -1,5 +1,5 @@
 ---
-link: http://blog.twitter.com/2012/12/your-twitter-archive.html
+link: https://blog.twitter.com/2012/your-twitter-archive
 published: 2012-12-19T10:07:26-08:00
 title: Your Twitter archive
 ---
