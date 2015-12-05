@@ -5,7 +5,7 @@ title: Some thoughts on organizational complexity
 ---
 [Dalton Caldwell](https://alpha.app.net/dalton) on digesting complexity:
 
-> Whenever I deal with what feels like an overwhelming problem, or get spun out trying to make sense of the myriad potential things I could be doing better, or hear about a company having a tough time because of things like a founder falling out, lack of focus, employee infighting, bad hires, can’t hire fast enough, hired too fast, etc, I can’t help but think of this quote:
+> Whenever I deal with what feels like an overwhelming problem, or get spun out trying to make sense of the myriad potential things I could be doing better, or hear about a company having a tough time because of things like a founder falling out, lack of focus, employee infighting, bad hires, can’t hire fast enough, hired too fast, etc, I can't help but think of this quote:
 > 
 > > More companies die of indigestion than from starvation
 > 

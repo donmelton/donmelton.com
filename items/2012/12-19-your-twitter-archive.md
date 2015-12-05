@@ -5,7 +5,7 @@ title: Your Twitter archive
 ---
 Mollie Vandor of Twitter on how to download your archive:
 
-> Go to Settings and scroll down to the bottom to check for the option to request your Twitter archive. If you do see it, go ahead and click the button. You’ll receive an email with instructions on how to access your archive when it’s ready for you to download.
+> Go to Settings and scroll down to the bottom to check for the option to request your Twitter archive. If you do see it, go ahead and click the button. You'll receive an email with instructions on how to access your archive when it's ready for you to download.
 
 This is great. And it seems I'm one of the lucky ones who can download my tweets today. My only question is: how often can I do this? After every new tweet? Once a week, month or year? After a certain number of additional tweets? Or is it a one-time only thing?
 

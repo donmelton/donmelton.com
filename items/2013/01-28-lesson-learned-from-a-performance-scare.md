@@ -20,7 +20,7 @@ But two days later, [John Gruber](http://daringfireball.net/) made these [two](h
 
 Stunning --- not the typo, everyone makes those --- but that he's made over 18,989 posts to his website. That is truly impressive. Of course, he's been doing it for over 10 years so you would expect him to have written maybe one or two.
 
-Rather than make the "Finally!" joke like everyone else about him fixing the typo, I replied to John asking, "How long does it take to regenerate the site with [Movable Type](https://en.wikipedia.org/wiki/Movable_Type)?" And he responded, "Good question. It’s been years since I’ve done a site-wide rebuild."
+Rather than make the "Finally!" joke like everyone else about him fixing the typo, I replied to John asking, "How long does it take to regenerate the site with [Movable Type](https://en.wikipedia.org/wiki/Movable_Type)?" And he responded, "Good question. It’s been years since I've done a site-wide rebuild."
 
 And that... Got. Me. Thinking.
 
