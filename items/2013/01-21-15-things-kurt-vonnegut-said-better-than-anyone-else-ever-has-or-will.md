@@ -1,9 +1,9 @@
 ---
-link: http://www.avclub.com/articles/15-things-kurt-vonnegut-said-better-than-anyone-el,1858/
+link: http://www.avclub.com/article/15-things-kurt-vonnegut-said-better-than-anyone-el-1858
 published: 2013-01-21T22:32:44-08:00
 title: 15 things Kurt Vonnegut said better than anyone else ever has or will
 ---
-During a conversation on App.net today, [Dalton Caldwell](https://alpha.app.net/dalton) linked to [this article](http://www.avclub.com/articles/15-things-kurt-vonnegut-said-better-than-anyone-el,1858/) to source a snippet from Kurt Vonnegut he had [just posted](https://alpha.app.net/dalton/post/2560428).
+During a conversation on App.net today, [Dalton Caldwell](https://alpha.app.net/dalton) linked to [this article](http://www.avclub.com/article/15-things-kurt-vonnegut-said-better-than-anyone-el-1858) to source a snippet from Kurt Vonnegut he had [just posted](https://alpha.app.net/dalton/post/2560428).
 
 Today isn't the anniversary of anything significant in Vonnegut's life. At least, not that I know of. And this article dates back to 2007, the year we were all robbed of his acerbic wit. But I never saw it before.
 
