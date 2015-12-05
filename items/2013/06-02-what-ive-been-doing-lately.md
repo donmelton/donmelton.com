@@ -50,7 +50,7 @@ So I wrote a whole new front end for it. Not by patching it. But by running it a
 
 Stupid, I know. But it was a wonderful distraction. And the damn thing works just fine.
 
-I call it "MPlayerShell." The source code is [available on Github](https://github.com/donmelton/MPlayerShell) and, thanks to [Valerii Hiora](http://github.com/vhbit), it's installable via [Homebrew](http://brew.sh/) too. You can read all about it [here](https://github.com/donmelton/MPlayerShell#readme).
+I call it "MPlayerShell." The source code is [available on Github](https://github.com/donmelton/MPlayerShell) and, thanks to [Valerii Hiora](https://github.com/vhbit), it's installable via [Homebrew](http://brew.sh/) too. You can read all about it [here](https://github.com/donmelton/MPlayerShell#readme).
 
 This is the project I talked about, but didn't name, on [my second "Debug" podcast](http://www.imore.com/debug-111-don-melton-blink-servo-and-more) with [Guy English](https://twitter.com/gte) and [Rene Ritchie](https://twitter.com/reneritchie/). Props to Rene for leading off the show with one of my "F" bombs --- the man never buries a good lede.
 
