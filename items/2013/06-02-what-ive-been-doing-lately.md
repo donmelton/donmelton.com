@@ -26,7 +26,7 @@ But the process of completing it burned me out on writing.
 
 And then suddenly there was Úll --- _The_ Conference. I capitalize it because it's simply the best event I've ever attended.
 
-Not only are [Paul Campbell](http://twitter.com/paulca) and [Dermot Daly](http://twitter.com/dermdaly) crazed saints for hosting such a celebration, but how they attracted all these wonderful people to operate it, speak at it, and attend it --- that's a stunning accomplishment. You need to [attend next year](http://2014.ull.ie). Trust me.
+Not only are [Paul Campbell](https://twitter.com/paulca) and [Dermot Daly](https://twitter.com/dermdaly) crazed saints for hosting such a celebration, but how they attracted all these wonderful people to operate it, speak at it, and attend it --- that's a stunning accomplishment. You need to [attend next year](http://2014.ull.ie). Trust me.
 
 And the venue? Perfect. Dublin is now one of my favorite cities. Some say you can't swing a cat in that town without hitting a church or a pub. But it's not just religion and relaxing there. Ireland is thick with history and gorgeous to behold. And after you've worn yourself out absorbing it? My advice is too absorb a Guinness and some pub food.
 
@@ -52,7 +52,7 @@ Stupid, I know. But it was a wonderful distraction. And the damn thing works jus
 
 I call it "MPlayerShell." The source code is [available on Github](https://github.com/donmelton/MPlayerShell) and, thanks to [Valerii Hiora](http://github.com/vhbit), it's installable via [Homebrew](http://brew.sh/) too. You can read all about it [here](https://github.com/donmelton/MPlayerShell#readme).
 
-This is the project I talked about, but didn't name, on [my second "Debug" podcast](http://www.imore.com/debug-111-don-melton-blink-servo-and-more) with [Guy English](http://twitter.com/gte) and [Rene Ritchie](http://twitter.com/reneritchie/). Props to Rene for leading off the show with one of my "F" bombs --- the man never buries a good lede.
+This is the project I talked about, but didn't name, on [my second "Debug" podcast](http://www.imore.com/debug-111-don-melton-blink-servo-and-more) with [Guy English](https://twitter.com/gte) and [Rene Ritchie](https://twitter.com/reneritchie/). Props to Rene for leading off the show with one of my "F" bombs --- the man never buries a good lede.
 
 Anyway, the whole process of writing MPlayerShell took me nearly three weeks. Yes, I'm the world's slowest software engineer. But part of that process was 1) Figuring out MPlayer's peculiar APIs and behaviors, and 2) Learning to write in Objective-C on OS X again. Seriously, I hadn't done that in years.
 
