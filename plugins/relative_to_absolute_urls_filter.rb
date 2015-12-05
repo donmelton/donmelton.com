@@ -1,5 +1,5 @@
 # Hack to convert relative URLs (e.g. </about/index.html>) to absolute URLs
-# (e.g. <http://donmelton.com/about/index.html>). Used for XML output.
+# (e.g. <http://donmelton.com/about/index.html>).
 
 class RelativeToAbsoluteURLs < Magneto::Filter
 

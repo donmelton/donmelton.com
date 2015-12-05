@@ -29,6 +29,7 @@ all_posts.each do |item|
   item.content.gsub! %r{(<a href=")#{post_url(item)}("><img class="[^"]+" src=")([^"]+)}, '\1\3\2\3'
 
   item.apply_filter :remove_more_marker
+  item.apply_filter :relative_to_absolute_urls
   item.apply_filter :reduce_empty_lines
 end
 
@@ -42,6 +43,8 @@ all_pages.each do |item|
   else
     item.apply_template :page
   end
+
+  item.apply_filter :relative_to_absolute_urls
   item.apply_filter :reduce_empty_lines
 end
 
@@ -49,13 +52,17 @@ end
   item.destination.sub! /\.erb$/, ''
   item.apply_filter :erb
   item.apply_template item.metadata[:template] if item.metadata.has_key? :template
-  item.apply_filter :reduce_empty_lines
 
-  if item.destination == '/rss.xml'
+  if item.destination =~ %r{\.html$}
+    item.apply_filter :relative_to_absolute_urls
+
+  elsif item.destination == '/rss.xml'
     item.apply_filter :remove_more_marker
     item.apply_filter :relative_to_absolute_urls
     item.apply_filter :symbolic_to_numeric_entities
   end
+
+  item.apply_filter :reduce_empty_lines
 end
 
 @site.items.find_all { |item| File.extname(item.origin) == '.sass' }.each do |item|
