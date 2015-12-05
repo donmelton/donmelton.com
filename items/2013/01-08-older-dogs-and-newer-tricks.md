@@ -1,5 +1,5 @@
 ---
-link: http://www.newyorker.com/online/blogs/newsdesk/2013/01/new-skills-for-a-new-year.html
+link: http://www.newyorker.com/news/news-desk/happy-new-year-pick-up-a-new-skill
 published: 2013-01-08T22:34:28-08:00
 title: Older dogs and newer tricks
 ---
@@ -13,4 +13,4 @@ I've always believed --- not just hoped --- that you can continue learning new t
 
 I know this is true because I've been doing it my whole adult life. And I plan on learning new things until I run out of air to breathe. I'm not saying it's easy when you're my age. But don't tell me it's impossible.
 
-Via [Andrew Sullivan](http://andrewsullivan.thedailybeast.com/2013/01/teaching-an-old-dog-new-tricks-.html).
+Via [Andrew Sullivan](http://dish.andrewsullivan.com/2013/01/08/teaching-an-old-dog-new-tricks/).
