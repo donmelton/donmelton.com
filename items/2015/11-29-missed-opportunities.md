@@ -30,7 +30,6 @@ You would think with all these podcasts I've been doing, along with [my own semi
 
 Tweets and podcasting have definitely lowered my passion to write. But there's one theory that can always explain my behavior: laziness. That said, it's still just an excuse. It's not actual writing.
 
-So, I'll make an attempt to get back to it. You know, the typing. And, yes, tell some more of those 
-stories you all like about the [Fruit Company](https://www.apple.com) and my other technology adventures.
+So, I'll make an attempt to get back to it. You know, the typing. And, yes, tell some more of those stories you all like about the [Fruit Company](https://www.apple.com) and my other technology adventures.
 
 I'll never get any good at it if I don't at least try. And I certainly don't want to miss so many opportunities again.
