@@ -160,7 +160,7 @@ While we never did remove it, we finally changed the appearance and behavior of 
 
 Sometimes during those design review meetings I got a glimpse of Steve that few were privileged to see.
 
-Once a co-worker in the room acted a bit unfocused and bleary eyed so Steve paused the review to ask if he felt OK. That person apologized and responded that he'd been in the emergency room late into the night with his daughter after an accident at home.
+Once a co-worker in the room acted a bit unfocused and bleary eyed so Steve paused the review to ask if he felt okay. That person apologized and responded that he'd been in the emergency room late into the night with his daughter after an accident at home.
 
 Steve, visibly concerned, asked if it would be better to do the review later. The fellow thanked him and said no, we could proceed. Then Steve related a story about one of his own children who had a similar mishap a few weeks earlier and how much that had shook him, too. He told the fellow he could take off early that day, after the review.
 
@@ -284,6 +284,6 @@ It's not like all of us didn't expect it, but it surprised me when Scott called 
 
 And it seemed better that Steve passed away at home with his family around him. Because that's how a good man goes.
 
-After I called my staff and made sure they were aware and they were OK, I told them to let any of their team members leave for the day if they thought that was best. Most of them stayed anyway because they didn't want to be alone.
+After I called my staff and made sure they were aware and they were okay, I told them to let any of their team members leave for the day if they thought that was best. Most of them stayed anyway because they didn't want to be alone.
 
 Then I laid back down, alone, and selfishly realized how fortunate I had been to have known this man, if just for a little while.
