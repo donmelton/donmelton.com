@@ -43,6 +43,11 @@ def all_pages
   $all_pages ||= @site.items.find_all { |item| item.origin =~ %r{^/.+\.md$} && item.origin !~ POSTS_MATCH_PATTERN }
 end
 
+# Does not include home page `index.erb` or `404.md` items as output...
+def visible_pages
+  $visible_pages ||= @site.items.find_all { |item| item.origin =~ %r{^/.+\.md$} && item.origin !~ POSTS_MATCH_PATTERN && item.origin != '/404.md' }
+end
+
 # ... but works for home page `index.erb` item as input.
 def page_url(item)
   item.url ||= item.origin.sub(%r{(/index)?\.(erb|md)$}, '/')

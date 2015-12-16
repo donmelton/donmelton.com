@@ -17,7 +17,7 @@ end
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
-<% all_pages.each do |page| %>
+<% visible_pages.each do |page| %>
 	<url>
 		<loc><%= @base_url + page_url(page) %></loc>
 		<lastmod><%= File.mtime(page.origin_path).xmlschema %></lastmod>
