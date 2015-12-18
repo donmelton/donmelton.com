@@ -4,3 +4,8 @@ ErrorDocument 404 /404.php
 <Files rss.xml>
 ForceType application/rss+xml
 </Files>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+</IfModule>

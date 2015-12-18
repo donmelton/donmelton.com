@@ -1,5 +1,5 @@
-base_url: http://donmelton.com
-cdn_url: http://cdn.donmelton.com
+base_url: https://donmelton.com
+cdn_url: ""
 content_width: 640
 copyright: { starting_year: 2012, owner: Don Melton }
 description: Just another Web geek playing with the Web

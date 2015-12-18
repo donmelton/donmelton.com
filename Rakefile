@@ -9,15 +9,15 @@ task :build => [:clean] do
 end
 
 task :deploy => [:build] do
-  sh 'rsync -cavzh --delete --stats --progress output/ donmelton.com:donmelton.com && open http://donmelton.com/'
+  sh 'rsync -cavzh --delete --stats --progress output/ donmelton.com:donmelton.com && open https://donmelton.com/'
 end
 
 task :stage => [:clean] do
-  sh 'cat config.yaml | sed \'s/^\(base_url:\).*$/\1 http:\/\/stage.donmelton.com/;s/^\(cdn_url:\).*$/\1 ""/;s/^\(google_analytics_account:\).*$/\1 ""/\' >stage_config.yaml && time magneto --config stage_config.yaml && rsync -cavzh --delete --stats --progress output/ stage.donmelton.com:stage.donmelton.com && open http://stage.donmelton.com/'
+  sh 'cat config.yaml | sed \'s/^\(base_url:\).*$/\1 http:\/\/stage.donmelton.com/;s/^\(cdn_url:\).*$/\1 ""/;s/^\(google_analytics_account:\).*$/\1 ""/\' >stage_config.yaml && time magneto --config stage_config.yaml && rsync -cavzh --delete --stats --progress output/ stage.donmelton.com:stage.donmelton.com && open https://stage.donmelton.com/'
 end
 
 task :mamp => [:clean] do
-  sh 'cat config.yaml | sed \'s/^\(base_url:\).*$/\1 http:\/\/localhost/;s/^\(cdn_url:\).*$/\1 ""/;s/^\(google_analytics_account:\).*$/\1 ""/\' >mamp_config.yaml && time magneto --config mamp_config.yaml && rsync -cavzh --delete --stats --progress output/ /Applications/MAMP/htdocs/ && open http://localhost/'
+  sh 'cat config.yaml | sed \'s/^\(base_url:\).*$/\1 https:\/\/localhost/;s/^\(cdn_url:\).*$/\1 ""/;s/^\(google_analytics_account:\).*$/\1 ""/\' >mamp_config.yaml && time magneto --config mamp_config.yaml && rsync -cavzh --delete --stats --progress output/ /Applications/MAMP/htdocs/ && open https://localhost/'
 end
 
 task :draft do

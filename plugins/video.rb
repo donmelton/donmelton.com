@@ -14,17 +14,17 @@ def video(src, args = {})
 end
 
 def youtube(id, args = {})
-  video 'http://www.youtube.com/embed/'           + id.to_s, args
+  video 'https://www.youtube.com/embed/'           + id.to_s, args
 end
 
 def vimeo(id, args = {})
-  video 'http://player.vimeo.com/video/'          + id.to_s, args
+  video 'https://player.vimeo.com/video/'          + id.to_s, args
 end
 
 def collegehumor(id, args = {})
-  video 'http://www.collegehumor.com/e/'          + id.to_s, args
+  video 'https://www.collegehumor.com/e/'          + id.to_s, args
 end
 
 def dailymotion(id, args = {})
-  video 'http://www.dailymotion.com/embed/video/' + id.to_s, args
+  video 'https://www.dailymotion.com/embed/video/' + id.to_s, args
 end
