@@ -6,7 +6,7 @@ Last week, several folks on Twitter pointed me to [this technical post](http://t
 
 And the article is very nearly a nerdgasm for a transcoding geek like myself. I'd still like to see more details about the exact rate control mechanism they're using and actual encoder arguments but, hey, you can't have everything.
 
-The tl;dr of it all is simply that Netflix plans on scaling bitrates up and down based on the complexity of the their video. So, slightly higher bitrates for busy action blockbusters and possibly lower bitrates for relatively static, flat cartoons.
+The tl;dr of it all is simply that Netflix plans on scaling bitrates up and down based on the complexity of their video. So, slightly higher bitrates for busy action blockbusters and possibly lower bitrates for relatively static, flat cartoons.
 
 Basically what we've all been doing for years with variable bitrate (VBR) encoding. But they're trying to control that variance a lot more than an encoder like [x264](https://en.wikipedia.org/wiki/X264) typically allows. In fact, as near as I can tell, Netflix still plans on encoding everything with a constant bitrate (CBR), but they want to be really particular about the target number.
 
