@@ -54,7 +54,7 @@ Among many other achievements, Bud was famous for running the original Macintosh
 
 So all three of us knew him well.
 
-Bud finally sat down with someone else who's back was turned away from us, six or seven tables away. Ken said something like, "Hey, that's Bud over there! Did you guys see him? What's he doing here?"
+Bud finally sat down with someone else whose back was turned away from us, six or seven tables away. Ken said something like, "Hey, that's Bud over there! Did you guys see him? What's he doing here?"
 
 Ken and I hadn't seen Bud in months, not since Eazel shut down, so we were all making guesses about the reason for his visit. Tiring of the conjecture, I finally just stood up, cupped my hands and called out to him.
 
@@ -152,7 +152,7 @@ Smiles all around. Which I followed with, "I'll have a working version of that f
 
 But I didn't care. I had just invented something with the Big Guy. True, it was a trifle, but there's no feeling like sharing even a tiny byline with Steve.
 
-The irony of that invention is that years later I tried to get the whole feature removed. Because even when precision testing showed that Safari loaded pages faster than any other browser, that damn in-your-face progress bar made it seem slower to the user. It's wonderful visibility was killing our reputation.
+The irony of that invention is that years later I tried to get the whole feature removed. Because even when precision testing showed that Safari loaded pages faster than any other browser, that damn in-your-face progress bar made it seem slower to the user. Its wonderful visibility was killing our reputation.
 
 While we never did remove it, we finally changed the appearance and behavior of the progress bar. And that made me sad, even while it made me happy.
 
